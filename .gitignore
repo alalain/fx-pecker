@@ -27,3 +27,9 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Gerber Files
+hardware/raspi_codec/gerber/
+*gerber.zip
+
+*.DS_Store

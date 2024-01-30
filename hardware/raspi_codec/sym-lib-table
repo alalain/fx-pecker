@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "PCM1802")(type "Legacy")(uri "/Users/alain/Documents/electronics/raspberry_codec/libs/ul_PCM1802DB/KiCAD/2022-11-12_13-24-51/2022-11-12_13-24-51.lib")(options "")(descr ""))
+  (lib (name "PCM5102A")(type "Legacy")(uri "/Users/alain/Documents/electronics/raspberry_codec/libs/ul_PCM5102APW/KiCAD/2022-11-12_13-36-49/2022-11-12_13-36-49.lib")(options "")(descr ""))
+  (lib (name "MCP3428-E_SL")(type "Legacy")(uri "/Users/alain/Documents/electronics/raspberry_codec/libs/MCP3428ESL/MCP3428-E_SL.lib")(options "")(descr ""))
+  (lib (name "OPA1641")(type "Legacy")(uri "/Users/alain/Documents/electronics/raspberry_codec/libs/ul_OPA1641AID/KiCAD/2022-11-15_18-42-14/2022-11-15_18-42-14.lib")(options "")(descr ""))
+  (lib (name "OPA2342")(type "Legacy")(uri "/Users/alain/Documents/electronics/raspberry_codec/libs/ul_OPA2342UA/KiCAD/2022-11-16_08-14-48/2022-11-16_08-14-48.lib")(options "")(descr ""))
+)

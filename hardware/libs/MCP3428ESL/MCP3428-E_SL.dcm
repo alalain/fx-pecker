@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP3428-E_SL
+D 16-bit delta-sigma ADC, quad channel
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA17/1031155.pdf
+$ENDCMP
+#
+#End Doc Library

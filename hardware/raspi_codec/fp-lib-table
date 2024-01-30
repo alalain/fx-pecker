@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "PCM1802")(type "KiCad")(uri "/Users/alain/Documents/electronics/raspberry_codec/libs/ul_PCM1802DB/KiCAD/2022-11-12_13-24-51/footprints.pretty")(options "")(descr ""))
+  (lib (name "PCM5102A")(type "KiCad")(uri "/Users/alain/Documents/electronics/raspberry_codec/libs/ul_PCM5102APW/KiCAD/2022-11-12_13-36-49/footprints.pretty")(options "")(descr ""))
+  (lib (name "MCP3428ESL")(type "KiCad")(uri "/Users/alain/Documents/electronics/raspberry_codec/libs/MCP3428ESL")(options "")(descr ""))
+  (lib (name "OPA1641")(type "KiCad")(uri "/Users/alain/Documents/electronics/raspberry_codec/libs/ul_OPA1641AID/KiCAD/2022-11-15_18-42-14/footprints.pretty")(options "")(descr ""))
+  (lib (name "OPA2342UA")(type "KiCad")(uri "/Users/alain/Documents/electronics/raspberry_codec/libs/ul_OPA2342UA/KiCAD/2022-11-16_08-14-48/footprints.pretty")(options "")(descr ""))
+)
